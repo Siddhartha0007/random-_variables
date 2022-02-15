@@ -1,0 +1,2 @@
+# random-_variables
+probability_distribution_of random_variables
